@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Anestésico e Agulhas Gengival"
+  },
+  {
+    "id": 2,
+    "name": "Biossegurança"
+  },
+  {
+    "id": 3,
+    "name": "Descartáveis"
+  },
+  {
+    "id": 4,
+    "name": "Dentística e Estética"
+  },
+  {
+    "id": 5,
+    "name": "Ortodontia"
+  },
+  {
+    "id": 6,
+    "name": "Endodontia"
+  },
+  {
+    "id": 7,
+    "name": "Pefiréricos e Peças de Mão"
+  },
+  {
+    "id": 8,
+    "name": "Moldagem"
+  },
+  {
+    "id": 9,
+    "name": "Prótese"
+  },
+  {
+    "id": 10,
+    "name": "Cimentos"
+  },
+  {
+    "id": 11,
+    "name": "Instrumentos"
+  },
+  {
+    "id": 12,
+    "name": "Cirurgia e Periodontia"
+  },
+  {
+    "id": 13,
+    "name": "Radiologia"
+  }
+]
