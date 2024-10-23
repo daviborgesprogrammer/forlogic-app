@@ -63,5 +63,5 @@ To get started with the Corelab App Challenge these steps:
 If you have any questions or face any issues during the challenge, please feel free to reach out to us for clarification or assistance.
 
 Good luck, and happy coding! We look forward to seeing your implementation of the Corelab App Challenge page.
-## Versões do README
+## README versions
 [Português BR](./README.md) | [Ingles US](./README-en.md)
