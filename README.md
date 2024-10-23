@@ -1,65 +1,67 @@
 # Corelab App Challenge
 
-Welcome to the Corelab App Challenge this challenge, you will be creating a Flutter application based on a [Figma mockup](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1) of a marketing place for dentists. Your task is to implement the product search page of the app.
+Bem-vindo ao Desafio Corelab App! Neste desafio, você criará um aplicativo Flutter baseado em um [protótipo Figma](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1) de um marketplace de marketing para dentistas. Sua tarefa é implementar a página de pesquisa de produtos do aplicativo
 
-## Challenge Details
+## Detalhes do desafio
 
-- **Application Type:** Flutter
-- **Task:** Implement the product search page for the Corelab App Challenge [Figma mock](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1).
-- **Time Limit:** Please aim to complete the challenge within 5-7 days.
-- **Submission:** Once you have completed the challenge, please submit your code as a GitHub repository and send us the link.
+- **Tipo de aplicativo:** Flutter
+- **Tarefa:** Implemente a página de pesquisa de produto para a simulação Corelab App Challenge [protótipo Figma](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1).
+- **Limite de tempo:** Por favor, tente completar o desafio dentro de 5 a 7 dias.
+- **Submissão:** Depois de concluir o desafio, envie seu código como um repositório GitHub e envie-nos o link.
 
-## Requirements
+## Requisitos
 
-1. Fork this repository or create a new Flutter project.
-2. Create a new page/screen in the app to display the product search functionality.
-3. Use the provided [Figma mock](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1) as a reference to design the UI for the product search page.
-4. Implement the product search functionality, allowing users to search for products relevant to dentists.
-5. Display the search results in a visually appealing manner, considering factors such as layout, typography, and images.
-6. Ensure that the app is responsive and provides a seamless user experience across different screen sizes.
-7. Use appropriate widgets and navigation techniques to create an intuitive user interface.
-8. All data information can be mocked. The goal of this challenge is to assess your abilities in developing the app in Flutter itself.
-9. Feel free to enhance the user experience by adding animations or any additional features you think would be beneficial.
+1. Faça um fork deste repositório ou crie um novo projeto Flutter.
+2. Crie uma nova página/tela no aplicativo para exibir a funcionalidade de pesquisa de produtos.
+3. Use o [protótipo Figma](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1) fornecido como referência para projetar a interface do usuário para a página de pesquisa do produto.
+4. Implemente a funcionalidade de pesquisa de produtos, permitindo aos usuários pesquisar produtos relevantes para dentistas..
+5. Exiba os resultados da pesquisa de forma visualmente atraente, considerando fatores como layout, tipografia e imagens.
+6. Certifique-se de que o aplicativo seja responsivo e forneça uma experiência de usuário perfeita em diferentes tamanhos de tela.
+7. Use widgets e técnicas de navegação apropriadas para criar uma interface de usuário intuitiva.
+8. Todas as informações de dados podem ser ridicularizadas. O objetivo deste desafio é avaliar suas habilidades no desenvolvimento do aplicativo no próprio Flutter.
+9. Sinta-se à vontade para aprimorar a experiência do usuário adicionando animações ou quaisquer recursos adicionais que você considere benéficos.
 
-## Features
+## Características
 
-1. The page has to display a search bar at the top of the page.
-2. The search bar should allow users to search for products that matches either product title, description, price or category
-3. if the product search returns no results, the page should display a message to the user indicating that no results were found.
-4. At the bottom of the page, there should be a button that allows users to navigate to the product details page.
-5. By clicking on the categories icon, the user should be able to navigate to categories page.
+1. A página deve exibir uma barra de pesquisa no topo da página.
+2. A barra de pesquisa deve permitir que os usuários pesquisem por produtos que correspondam ao título do produto, descrição, preço ou categoria.
+3. Se a pesquisa de produtos não retornar resultados, a página deve exibir uma mensagem para o usuário indicando que nenhum resultado foi encontrado.
+4. Na parte inferior da página, deve haver um botão que permite que os usuários naveguem para a página de detalhes do produto.
+5. Ao clicar no ícone de categorias, o usuário deve ser capaz de navegar para a página de categorias.
 
 
-## Evaluation Criteria
+## Critérios de Avaliação
 
-Your submission will be evaluated based on the following criteria:
+Sua submissão será avaliada com base nos seguintes critérios:
 
-1. **Code Quality:** The structure, organization, and readability of your code.
-2. **UI Design:** The accuracy of implementing the UI based on the provided Figma mock.
-3. **Functionality:** The successful implementation of the product search functionality.
-4. **Responsiveness:** The app should adapt well to different screen sizes and orientations.
-5. **User Experience:** The overall usability, intuitiveness, and visual appeal of the app.
-6. **Attention to Detail:** Paying attention to small details, such as error handling, edge cases, and overall polish.
+1. **Qualidade do código** A estrutura, organização e legibilidade do seu código.
+2. **Design da UI:** A precisão da implementação da UI com base no protótipo Figma fornecido.
+3. **Funcionalidade:** A implementação bem-sucedida da funcionalidade de pesquisa de produtos.
+4. **Responsividade:** O aplicativo deve se adaptar bem a diferentes tamanhos de tela e orientações.
+5. **Experiência do usuário:** A usabilidade geral, intuitividade e apelo visual do aplicativo.
+6. **Atenção aos detalhes:** Prestar atenção a pequenos detalhes, como tratamento de erros, casos de borda e polimento geral.
 
-## Getting Started
+## Começando
 
-To get started with the Corelab App Challenge these steps:
+Para começar com o Corelab App Challenge, siga estes passos:
 
-1. Clone the repository or create a new Flutter project.
-2. Analyze the provided [Figma mock](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1) to understand the design and requirements.
-3. Set up your development environment with Flutter and Dart.
-4. Start implementing the product search page based on the design.
-5. Test your implementation thoroughly to ensure it meets the requirements.
-6. Submit your completed code for evaluation.
+1. Clone o repositório ou crie um novo projeto Flutter.
+2. Analise o [protótipo Figma](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1) fornecido para entender o design e os requisitos.
+3. Configure seu ambiente de desenvolvimento com Flutter e Dart.
+4. Comece a implementar a página de pesquisa de produtos com base no design.
+5. Teste sua implementação cuidadosamente para garantir que ela atenda aos requisitos.
+6. Envie seu código completo para avaliação.
 
-## Resources
+## Recursos
 
-- [Flutter Documentation](https://flutter.dev/docs)
-- [Dart Documentation](https://dart.dev/guides)
-- [Figma mock](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1)
+- [Documentação do Flutter](https://flutter.dev/docs)
+- [Documentação do Dart](https://dart.dev/guides)
+- [Protótipo Figma](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1)
 
-## Questions or Issues
+## Perguntas ou Problemas
 
-If you have any questions or face any issues during the challenge, please feel free to reach out to us for clarification or assistance.
+Se você tiver alguma pergunta ou enfrentar algum problema durante o desafio, não hesite em entrar em contato conosco para esclarecimento ou assistência.
 
-Good luck, and happy coding! We look forward to seeing your implementation of the Corelab App Challenge page.
+Boa sorte e feliz codificação! Estamos ansiosos para ver sua implementação da página do Corelab App Challenge.
+## Versões do README
+[Português BR](./README.md) | [Ingles US](./README-en.md)
